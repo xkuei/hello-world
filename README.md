@@ -1,4 +1,10 @@
 hello-world
 ===========
 
-Just another repository
+Hello!
+This is me (@xkuei) testing this stuff.
+Thanks for reading.
+
+Then again, maybe not.
+
+Bye.
